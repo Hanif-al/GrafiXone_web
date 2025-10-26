@@ -60,7 +60,7 @@ body {
     align-items: center;
     padding: 80px 50px;
     background-color: #eaf2ff;
-    background-image: url('g.png');
+    background-image: url('h.png');
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -543,4 +543,5 @@ footer {
     .portfolio {
         padding: 40px 15px;
     }
+
 }
